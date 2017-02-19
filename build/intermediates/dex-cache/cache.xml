@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_b65c86d4c5ba44c07800b03516a1e02891114ae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_5252cf203b2f42c51f4fc07445a04d5d39dfa757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_39b6e25484d39bc058ec11776bc67c96d133330f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_665ee55a1c62351020e3acecd9d1da9cccc79ef5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_9d23b2e253ec0aab8982e7b1cdd5a4a499eecc8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_7877fade2dfb1693a9178135722f0724c3a6270d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_7c1366bec57b0afd0c962af19acb2b4d1240210b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_5a0cae5c652ef18b0e974f67e6272773a0745a36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_ae53403acdbb63fedc8553982924540d2896304d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_743abac0e0c2d8b65e42c761563180364bc63867\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_c1f090ccf229c15ab3a8c1d0145937dc30b84bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_8face58a3da17e58a4e9a8f8644e91d74281b3d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_39c42094701a893bad9ee89b105c08db8162e8f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_0181d58d5a3731967409cb86c78ca11d54e3c394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bef6e179ce8c040d2c89162ee3f07fc5788edd2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_4277f75b37b993bd7505ecfe781de61af41522b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_708686531e81c95287b37e837ecd322512a43f02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_6ceb27a6d1db5ba4908d2430c81badfd28df8fcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5a8f8c7d0203345a311f27e6817cb4f056dd0976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f90addf888e24f9cca5a0b1a5bfafea8bcd38500\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_e19f6a63e4d78f88f1e630d0a909e98a20d4cc49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_91d54e3c86229f0b5f9b3ed7fd7bbed4061c0fc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_86bb983ac5d632fbb9ae77c4337310da875c58f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_792c5246b1cbf9f6ce0623d41904633b914ab92f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d5aca69db57fa782afc5b09e97bab6c0bccb15f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_ee32249a581a299c97647f366057c35c5dbe92b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_d99bf10fa030414c430aaf30228ff00cdbd6b21c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_3d493400dbf2800d8db9a6069a1c4990a8eaf987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_0f7f494f1dd4a72efe8549fb50a068ba0e51009f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_4dd7277a90cfb4962e55c2bc7efc7d9a8cf60b2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_bb5a38bd86023e85e9288e0f815f3530511cd963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_50d9dbd8f1d95f35ddd31daee5bf0c4d478d1af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_6c2c503470e453b068477301ecce5fbf65a73d0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_45d14b38f7a0f6ab0e5aec18c927d0bce043cbb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd3971845f8b24124354eba247e3e7ec7f9af734">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_496ebb70a8171a4d7273b1ddc3960c45adafd6a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_eef6234a39ff4fd68891cd882e9f83dd6336f005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_e263f34eeffa0eb252c84d8186de2d932ad0c451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_2006afdc8be26e99cf7e4a9f74b7e7a1e5118dad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_2f1e0892865850ff2a419e247a161e0978863dfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_a22677e357b00a17d6ed695f749e950c9240129f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_5194da888ceb75d64a0e022f4a13d7a7021c857e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_68a69d2b527e0119c7186f03c82d35bb429fd4dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_445859082b14650daadb7263c7521b4aaa6eaa6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_dc8a6b2fd2ee50057b6fe1938f78586084a8166d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_25c25f1f6fe55646f06d6423780030b2f48d8bbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_91e28076be7d481b0c0aa57d276dbc094eb06ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_3547a68d265d4a0f777f0a8e416ac17adb92e764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_27b39f867eb4e091a2e4615e4f0cc57cf346d339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_c8b9a947ca0ac7daa49c74f78f55bab357f1b6d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_1a0461e2d04125ef87a0dc70a3abc0b6dd730b1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_66dee4ddf3f7ef294140254bd23403ea78c8a8d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_763ab4859bc02b8ab67a2c56cec92edd49c6b112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_db0891d4700ac270929e53563ed2f9147a04a7ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_081703f0bbbe38c46029beaba64dbdfd434d7834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_2eda1133ec3fb4e8c3f8b55ed01a53f7522d3b99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2ac6be717ec422cdac5acaeba77ead496b37b470\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_032f2f5d1ae42fd49a6fbe01b642a55d34ca7801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_44403aa937472750df0361e663626a910ba004cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_44a1beebd6934394fd51272f9aa81d1aef4cb8b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_91b8bda6c9d21e6cfcfb7c74b9e77ec5f3d6091d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_3cbaeae5812a269c3690023f87f1b4792834f8b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_20b60a01895555317cc903d8faa99cb862ff9e22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_9da091ad06aa112a0778a5af6c4e34e324661835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_8bfe4212b1ea890c213e6cf54f6004eb2bd26f81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_26c06f52eb725c987dfffce9073abfdac7c8a859\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_02a11ad93616c86fa109d1ce799835f78c71c032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_b441bd5db8f50e9bebade2435ed3b2099730f9aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_212851d052a09b3f08d4dc5c229d0551e88c9921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_a645b65fdff08aec7939e1e84ab0ea096582a884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="959ac16b7baa5bbfd390249fd6d27789a09c2b84">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_186cfd7b14be94a48e9b195ab405e8bbb26ba010\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_4d1490c28ab8157c67d106fedb15a52f006e54b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_739ae5ff7f53749f652987826a488849eccd6544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ba7834fd57e179b4bd4f9940509cbf01c9fc1199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Murilo\Documents\AndroidStudioProjetcs\BuscaMed\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_94219a4d699c8b3b2bd02f0ebf8fcc7543659a0e\classes.dex" />
+    </item>
+
+</items>

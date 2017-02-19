@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "865851793232",
+    "firebase_url": "https://buscamed-9600e.firebaseio.com",
+    "project_id": "buscamed-9600e",
+    "storage_bucket": "buscamed-9600e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865851793232:android:7e00234a5e691ae6",
+        "android_client_info": {
+          "package_name": "mysticlabs.projects.com.buscamed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865851793232-dgue2jv8e3rckei0n9q0gmq8msbcfn2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mysticlabs.projects.com.buscamed",
+            "certificate_hash": "36159ACE7ADFC9FBC5A35B1432F67EE52965CCA5"
+          }
+        },
+        {
+          "client_id": "865851793232-evrrao2fcp5dpba4220st8u5fegujum6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeBScgzq3EwvXRPM4mJbVMQaOgCc7Q158"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865851793232-evrrao2fcp5dpba4220st8u5fegujum6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
