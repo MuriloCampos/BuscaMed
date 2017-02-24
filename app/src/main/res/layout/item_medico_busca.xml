@@ -11,7 +11,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:weightSum="2">
 
         <ImageView
@@ -19,21 +19,23 @@
             android:layout_height="wrap_content"
             app:srcCompat="@android:drawable/ic_menu_gallery"
             android:id="@+id/imageView"
-            android:layout_weight="1"
-            android:src="@android:drawable/gallery_thumb" />
+            android:layout_weight="0"
+            android:src="@android:drawable/gallery_thumb"
+            android:padding="7dp"/>
 
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1">
+            android:layout_weight="0"
+            android:padding="7dp">
 
             <TextView
                 android:text="Drauzio Varella"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/nomeMedico"
-                android:layout_weight="1"
+                android:layout_weight="0"
                 android:textStyle="bold"
                 android:textSize="21sp"
                 android:textAlignment="textStart" />
@@ -43,16 +45,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/especialidade"
-                android:layout_weight="1"
                 android:textColor="@color/colorPrimary"
                 android:textColorHint="@color/colorPrimaryDark"
-                android:textSize="16sp" />
+                android:textSize="16sp"
+                android:layout_weight="0"/>
 
             <TextView
                 android:text="CRM 0000-MT"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
                 android:textColor="@android:color/holo_green_dark"
                 android:textSize="16sp"
                 android:id="@+id/crm" />
